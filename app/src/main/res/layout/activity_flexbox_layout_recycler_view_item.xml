@@ -11,6 +11,6 @@
         android:background="@drawable/flexbox_item_background"
         android:padding="8dp"
         android:layout_margin="5dp"
-        android:textSize="20dp"/>
+        android:textSize="20sp"/>
 
 </LinearLayout>
